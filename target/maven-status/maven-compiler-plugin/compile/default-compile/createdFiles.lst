@@ -1,0 +1,16 @@
+com\ListAnime\ihm\PanelOnglet.class
+com\ListAnime\Controleur.class
+com\ListAnime\ihm\FramePrincipal.class
+com\ListAnime\ihm\PanelBtn.class
+com\ListAnime\ihm\PanelList$1.class
+com\ListAnime\metier\GestionFichier.class
+com\ListAnime\ihm\PanelList$ImageRenderer.class
+com\ListAnime\ihm\PanelList.class
+com\ListAnime\ihm\ModelTable.class
+com\ListAnime\metier\GestionFichier$1.class
+com\ListAnime\metier\Metier.class
+com\ListAnime\ihm\PanelInfo.class
+com\ListAnime\ihm\FrameAjouter.class
+com\ListAnime\ihm\PanelList$2.class
+com\ListAnime\metier\Oeuvre.class
+com\ListAnime\metier\OeuvreService.class

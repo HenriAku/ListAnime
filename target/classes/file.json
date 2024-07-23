@@ -1,0 +1,44 @@
+[
+  {
+    "url": "https://cdn.myanimelist.net/images/manga/3/249658.jpg",
+    "name": "Naruto",
+    "type": "manga",
+    "nbVol": 72,
+    "note": 1.0
+  },
+  {
+    "url": "https://cdn.myanimelist.net/images/anime/11/39717.jpg",
+    "name": "Sao",
+    "type": "anime",
+    "nbVol": 25,
+    "note": 7.0
+  },
+  {
+    "url": "https://cdn.myanimelist.net/images/anime/1141/142503.jpg",
+    "name": "Naruto",
+    "type": "anime",
+    "nbVol": 220,
+    "note": 1.0
+  },
+  {
+    "url": "https://cdn.myanimelist.net/images/manga/1/205549.jpg",
+    "name": "Bastard",
+    "type": "manhwa",
+    "nbVol": 5,
+    "note": 4.0
+  },
+  {
+    "url": "https://cdn.myanimelist.net/images/anime/1770/97704.jpg",
+    "name": "One piece",
+    "type": "anime",
+    "nbVol": 1,
+    "note": 8.0
+  },
+  {
+    "url": "https://cdn.myanimelist.net/images/manga/2/253146.jpg",
+    "name": "One piece",
+    "type": "manga",
+    "nbVol": 0,
+    "note": 5.0
+  }
+]

@@ -4,8 +4,13 @@ Set objShell = CreateObject("WScript.Shell")
 ' Obtenez le répertoire du script VBS
 scriptPath = CreateObject("Scripting.FileSystemObject").GetParentFolderName(WScript.ScriptFullName)
 
-' Définissez le chemin complet vers le fichier batch
-batchFile = scriptPath & "\Exe.bat"
+' Définissez les chemins complets vers les fichiers batch
+batchFile2 = scriptPath & "\Exe2.bat"
+batchFile1 = scriptPath & "\Exe.bat"
 
-' Exécutez le fichier batch sans afficher la console
-objShell.Run batchFile, 0, False
+' Exécutez le premier fichier batch et attendez sa fin  et 1 pour afficher la console
+objShell.Run batchFile2, 0, true
+
+' Exécutez le deuxième fichier batch après que le premier soit terminé
+objShell.Run batchFile1, 0, true
+
